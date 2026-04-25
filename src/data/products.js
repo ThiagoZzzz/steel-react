@@ -8,7 +8,7 @@ export const PRODUCTS = [
     price: 390,
     category: 'Classic',
     featured: false,
-    image: '/public/reloj3.png',
+    image: '/reloj3.png',
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ export const PRODUCTS = [
     price: 205,
     category: 'Sport',
     featured: false,
-    image: '/public/reloj4.png',
+    image: '/reloj4.png',
   },
   {
     id: 3,
@@ -26,7 +26,7 @@ export const PRODUCTS = [
     price: 899,
     category: 'Classic',
     featured: false,
-    image: '/public/reloj5.png',
+    image: '/reloj5.png',
   },
   {
     id: 4,
@@ -35,7 +35,7 @@ export const PRODUCTS = [
     price: 970,
     category: 'Limited',
     featured: true,
-    image: '/public/watch10.png',
+    image: '/watch10.png',
   },
   {
     id: 5,
@@ -44,7 +44,7 @@ export const PRODUCTS = [
     price: 4200,
     category: 'Limited',
     featured: true,
-    image: '/public/watch2.png',
+    image: '/watch2.png',
   },
   {
     id: 6,
@@ -53,7 +53,7 @@ export const PRODUCTS = [
     price: 7300,
     category: 'Limited',
     featured: true,
-    image: '/public/watch4.png',
+    image: '/watch4.png',
   },
   {
     id: 7,
@@ -62,7 +62,7 @@ export const PRODUCTS = [
     price: 2000,
     category: 'Classic',
     featured: false,
-    image: '/public/watch5.png',
+    image: '/watch5.png',
   },
   {
     id: 8,
@@ -71,7 +71,7 @@ export const PRODUCTS = [
     price: 3340,
     category: 'Sport',
     featured: true,
-    image: '/public/watch6.png',
+    image: '/watch6.png',
   }
 ];
 
